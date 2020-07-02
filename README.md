@@ -6,9 +6,9 @@ Resolução e código fonte do exercício proposto na lista 6 de POO, utilizando
 * Cláudio E. Lima
 
 ## Equipe:
-| Nome              | RA            |
-|-------------------|---------------|
-| Gabriel Mendes    | 1460481911020 |
-| Gabriel Borges    | 1460481911022 |
-| Isabelle Oliveira | 1460481911032 |
-| Samuel Costa      | 1460481911072 |
+|Aluno | RA |
+|---|---|
+|[Gabriel Mendes](https://github.com/gmendess)|1460481911020|
+|[Gabriel Borges](https://github.com/gfborges)|1460481911022|
+|[Isabelle Oliveira](https://github.com/isabellefo)|1460481911032|
+|[Samuel Costa](https://github.com/scsoliveira)|1460481911072|
