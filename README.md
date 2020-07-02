@@ -1,5 +1,5 @@
 # Programação Orientada a Objetos
-Resolução e código fonte dos exercício proposto para solucionar os problemas definidos nas lista 6 de POO, utilizando da linguagem Java e suas ferramentas.
+Resolução e código fonte do exercício proposto na lista 6 de POO, utilizando da linguagem Java e suas ferramentas.
 
 ## Professores
 * Gerson P. Neto
