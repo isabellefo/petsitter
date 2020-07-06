@@ -3,4 +3,4 @@
 - [x] Project Model Canva
 - [ ] RoadMap
 - [ ] Relatório Sintético
-- [ ] Vídeo
+- [x] Vídeo
